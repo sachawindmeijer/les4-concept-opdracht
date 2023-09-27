@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Poppins:ital,wght@1,100&family=Roboto+Condensed&display=swap');
+/**hier heb je twee weken de tijd voor**/
+/*java basic h1+h2*/
+/*////////////////////////
+    Table of Contents
+    1. Global Styles
+    2. Typography
+    3. Layout
+        3.1 Reusables
+        3.2 Other
+    4. Areas
+        4.1 Header
+        4.2 Introduction
+        etc.
+    5. Media Queries
+////////////////////////*/
+/*font-family: 'Merriweather', serif;*/
+
+/*font-family: 'Poppins', sans-serif;*/
+
+/*font-family: 'Roboto Condensed', sans-serif;*/
+
+
+/* ------------------------------- 1. Global Styles -------------------------------- */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+:root {
+    --Paars: #5722CD;
+    --Blauw: #4845E4;
+    --Roze: #ED4385;
+    --standaart-text: #0C0C0C;
+    --groote-woorden: #F2F0FF;
+    --achtergrond-pr: #F3F6F9;
+    --service-tegel:  #7A7A7A;
+
+}
+/* ------------------------------- 2. Typography ----------------------------------- */
+h1, h2, h3, h4, h5, h6{
+    font-family: Merriweather, serif;
+}
+/* ------------------------------- 3. Layout --------------------------------------- */
+.inner-container{
+
+}
+.outer-container{
+
+}
+/* --------------- 3.1 Reusables ----------------------- */
+
+/* --------------- 3.2 Other --------------------------- */
+
+/* ------------------------------- 4. Areas ---------------------------------------- */
+
+/* --------------- 4.1 Header ------------------------- */
+
+/* --------------- 4.2 Introduction ------------------- */
+
+/* ------------------------------- 5. Media Queries -------------------------------- */
